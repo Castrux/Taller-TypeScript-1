@@ -1,4 +1,4 @@
-import { Serie } from './scripts/serie.js';
+import { Serie } from './serie.js';
 
 export const series = [
   new Serie(1,'Game of Thrones', 'HBO', 'Drama', 8, 73, 'La lucha por el Trono de Hierro enfrenta a las familias nobles de los Siete Reinos'),
