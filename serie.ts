@@ -75,3 +75,4 @@ class Serie {
     this._sinopsis = sinopsis;
   }
 }
+export {Serie}
